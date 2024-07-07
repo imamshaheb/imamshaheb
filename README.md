@@ -6,5 +6,6 @@
 🌱 I am passionate about coding, tech, and productivity<br/> 
 💭 Currently learning about MERN Stack!<br/>
 
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Imam's github stats](https://github-readme-stats.vercel.app/api?username=imamshaheb&count_private=true&show icons=true&theme=radical&hide rank=false)
+![Imam's github stats](https://github-readme-stats.vercel.app/api?username=imamshaheb&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
